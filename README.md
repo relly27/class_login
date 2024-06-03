@@ -14,7 +14,7 @@
 - Cleismer Guerra, C.I: 29697213
 - Nicole Rodriguez, C.I: 28322374
 
-## sql para crear la abla necesaria
+## sql para crear la tabla necesaria
 
 ```sql
 CREATE TABLE usuarios (
